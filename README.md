@@ -4,6 +4,9 @@
 https://github.com/LonamiWebs/Telethon
 
 Obtain your Telegram API ID and Hash
+
+then
+
 ```
 pip install pyaes 
 git clone https://github.com/LonamiWebs/Telethon.git
